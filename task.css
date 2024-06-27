@@ -1,0 +1,94 @@
+*{
+	padding:0;
+	margin:0;
+}
+
+.bgimg{
+	padding:30;
+	background-image:url("https://papers.co/wallpaper/papers.co-sk62-dark-blue-blur-gradation-29-wallpaper.jpg");
+	height:100vh;
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+}
+.p1{
+	font-size:20px;
+	display:flex;
+	justify-content:space-between;
+	color:white;
+}
+.p1 ul{
+	color:white;
+	display:flex;
+}
+.p1 ul li{
+	list-style:none;
+	padding:15;
+    color: white;
+}
+.p1 ul li select{
+    background-color: transparent;
+    color: white;
+}
+.p2{
+    text-align:center;
+    color:white;
+}
+.p2 h1{
+    font-size:30px;    
+}
+.p2 p{
+    color: blue;
+}
+.box{
+    padding: 30;
+    display: flex;
+    justify-content: space-evenly;
+}
+.box1{
+    margin: 10;
+    width: 400px;
+     border-style:solid; 
+     border-width:2px;
+     border-color:white;
+}
+.box1 img{
+         padding:10;
+}
+.box1 h1{
+    padding: 10;
+    color: white;
+}
+.box1 p{
+    padding: 10;
+    color: white;
+}
+.box1:hover{
+    transform:scale(80%);
+    background-color: black;
+}
+.box2{
+    margin: 10;
+    width: 400px;
+     border-style:solid; 
+     border-width:2px;
+     border-color:white;
+}
+.box2 img{
+         padding:10;
+}
+.box2 h1{
+    padding: 10;
+    color: white;
+}
+.box2 p{
+    padding: 10;
+    color: white;
+}
+.box2:hover{
+    transform:scale(80%);
+    background-color: black;
+}
+.boss{
+    display: flex;
+    justify-content: space-evenly;
+}
