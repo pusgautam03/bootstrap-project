@@ -1,0 +1,153 @@
+*{
+margin: 0;
+    padding: 0;
+}
+.p1{
+    justify-content: space-between;
+    display: flex;
+    font-size: 50px;
+}
+.p1 ul{
+    display: flex; 
+}
+.p1 ul li{
+    list-style: none;
+   padding: 10;
+}
+.box{
+    display: flex;
+}
+.box1{
+    border-style: solid;
+    border-width: 1px;
+}
+.bgimg{
+    padding: 20;
+    background:linear-gradient(rgb(15, 5, 5),rgb(79, 79, 246),rgb(41, 37, 37));
+    color:white;
+    height: max-content;   
+}
+.p2{
+    color:white;
+    height: 500px;
+    width: 725px;
+    display: flex;
+}
+.p2 h1{
+     background-color:orange;
+}
+.p2 img{
+    height: 500px;
+    width:1500px;
+}
+.p3{
+    width: 500px;
+}
+.box2{
+    display: flex;
+   justify-content: space-between;
+}
+.p3 h1{
+    background-color: orange;
+}
+.box3{
+    display:flex;
+    justify-content: space-evenly;
+}
+.box3{
+    padding: 5;
+}
+.p4{
+    border-style: solid;
+    color: white;
+    width:350px;
+    border-color: transparent;
+}
+.p4 h1{
+    text-align: center;
+    background-color: rgb(205, 136, 8);
+}
+.p4 img{
+    height: 200px;
+    width: 350px;
+}
+.p4 p{
+    padding: 10;
+    color:black;
+    background-color: white;
+}
+.p4{
+    border-style: solid;
+    color: white;
+    width:350px;
+    border-color: transparent;    
+}
+.p4:hover{
+    transform:scale(80%);
+}
+.p5 h1{
+    text-align: center;
+    background-color: orange;
+}
+.p5 img{
+    height: 200px;
+    width: 350px;
+}
+.p5 p{
+    padding: 10;
+    color:black;
+    background-color: white;
+}
+.p5{
+    border-style: solid;
+    color: white;
+    width: 350px;
+    border-color: transparent;
+}
+.p5:hover{
+    transform:scale(80%);
+}
+.p6 h1{
+    text-align: center;
+    background-color: orange;
+}
+.p6 img{
+    height: 200px;
+    width: 350px;
+}
+.p6 p{
+    padding: 10;
+    color:black;
+    background-color: white;
+}
+.p6{
+    border-style: solid;
+    color: white;
+    width: 350px;
+    border-color: transparent;
+}
+.p6:hover{
+    transform:scale(80%);
+}
+.p7 h1{
+    text-align: center;
+    background-color: orange;
+}
+.p7 img{
+    height: 200px;
+    width: 350px;
+}
+.p7 p{
+    padding: 10;
+    color:black;
+    background-color: white;
+}
+.p7{
+    border-style: solid;
+    color: white;
+    width: 350px;
+    border-color: transparent;
+}
+.p7:hover{
+    transform:scale(80%);
+}
